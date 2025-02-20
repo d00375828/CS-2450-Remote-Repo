@@ -6,3 +6,6 @@ Today we talked more about the specifics of our project. We got together as a te
 
 Date 2/11/25  Subject - User Stories and Diagrams
 Today we worked on our diagrams as a team. The hardest part about working on the diagrams is making them in a way that the whole team is happy. It has been hard making everyone on the same page.
+
+Date 2/18/25 Subject - Presentations
+Today we did our presentation. It went well and we got our ideas across clearly. The team worked well together.
