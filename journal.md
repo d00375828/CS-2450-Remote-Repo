@@ -9,3 +9,6 @@ Today we worked on our diagrams as a team. The hardest part about working on the
 
 Date 2/18/25 Subject - Presentations
 Today we did our presentation. It went well and we got our ideas across clearly. The team worked well together.
+
+Date 2/27/25  Subject - So close to spring break
+Today all I wanted to do was go outside. The weather has been so nice!!!
