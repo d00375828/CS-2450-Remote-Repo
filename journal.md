@@ -4,6 +4,9 @@ Today we talked about the importance of communication in teams. All forms of com
 Date 1/30/25  Subject - The goods
 Today we talked more about the specifics of our project. We got together as a team and ironed out some details for our project. We worked on the requirements doc which was confusing at first but I think we finally started to figure some of it out.
 
+Date 2/6/25 Subject C++ is kicking my butt
+Today I have been working on my C++ assignment all day. I haven't been able to get Assignment 14 working. We made our Makefiles generic and it has ruined how my files make now.
+
 Date 2/11/25  Subject - User Stories and Diagrams
 Today we worked on our diagrams as a team. The hardest part about working on the diagrams is making them in a way that the whole team is happy. It has been hard making everyone on the same page.
 
