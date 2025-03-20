@@ -15,3 +15,6 @@ Today we did our presentation. It went well and we got our ideas across clearly.
 
 Date 2/27/25  Subject - So close to spring break
 Today all I wanted to do was go outside. The weather has been so nice!!!
+
+Date 3/20/25	Subject - Spring Break and the flu
+The flu has been going around and I have been lucky enough to be its latest victim, so I haven't been able to go to class. We have worked on unit testing this week though.
