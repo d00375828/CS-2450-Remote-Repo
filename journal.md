@@ -18,3 +18,6 @@ Today all I wanted to do was go outside. The weather has been so nice!!!
 
 Date 3/20/25	Subject - Spring Break and the flu
 The flu has been going around and I have been lucky enough to be its latest victim, so I haven't been able to go to class. We have worked on unit testing this week though.
+
+Date 3/25/25	Subject - Unit Test
+I worked on my Unit tests for passwords. I finally figured it out by importing unittest. I couldn't do it any other way.
