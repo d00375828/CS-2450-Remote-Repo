@@ -21,3 +21,6 @@ The flu has been going around and I have been lucky enough to be its latest vict
 
 Date 3/25/25	Subject - Unit Test
 I worked on my Unit tests for passwords. I finally figured it out by importing unittest. I couldn't do it any other way.
+
+Date 4/1/25	Subject - April Fools
+Today is April Fools which is the best holiday ever!! We talked about CI/CD general practices today.
