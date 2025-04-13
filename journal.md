@@ -24,3 +24,6 @@ I worked on my Unit tests for passwords. I finally figured it out by importing u
 
 Date 4/1/25	Subject - April Fools
 Today is April Fools which is the best holiday ever!! We talked about CI/CD general practices today.
+
+Date 4/9/25	Subject - Almost there
+We are so close to the end of the semester I can almost taste it. We are down to the grindtime to get things done. Our app is coming along nicely!!
