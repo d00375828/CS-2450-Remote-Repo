@@ -29,4 +29,7 @@ Date 4/9/25	Subject - Almost there
 We are so close to the end of the semester I can almost taste it. We are down to the grindtime to get things done. Our app is coming along nicely!!
 
 Date 4/17/25	Subject - Final Presentation
-We didn't have class today but we still talked as a team and made assignments for the final presentation. 
+We didn't have class today but we still talked as a team and made assignments for the final presentation.
+
+Date 4/24/25	Subject - We made it!!!
+We completed our final presentation and it went really well. My group was awesome I am glad I got to work with them. 
